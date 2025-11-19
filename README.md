@@ -2,8 +2,6 @@
 
 ### 🚀 Data Analyst | Insight-Driven Problem Solver 📊 SQL • Excel • Power BI • Python • ML 🧠 I Transform Complex Data Into Clear, Actionable Business Solutions
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilpoojari653&label=Profile views&color=0e75b6&style=flat" alt="nikhilpoojari653" /> </p>
-
 - 🌱 I'm currently learning **Machine Learning**
 
 - 🤝 I'm looking for help with **Data analyst jobs in mumbai/navi mumbai**
