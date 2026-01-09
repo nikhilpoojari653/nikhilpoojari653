@@ -1,6 +1,6 @@
 # Hi 👋, I'm Nikhil Poojari
 
-### 🚀 Data Analyst | Insight-Driven Problem Solver 📊 SQL • Excel • Power BI • Python • ML 🧠 I Transform Complex Data Into Clear, Actionable Business Solutions
+### Product / Growth Analyst | SaaS & Subscription Analytics | SQL • Excel • Power BI • Python | Retention • Churn • Funnels
 
 - 🌱 I'm currently learning **Machine Learning**
 
