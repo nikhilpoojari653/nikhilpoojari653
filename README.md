@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at **[https://www.datascienceportfol.io/databyNikhil](https://www.datascienceportfol.io/databyNikhil)**
 
-- 📄 Know about my experiences **[(https://drive.google.com/file/d/16mUQ7Y9spzAeHveDg0wKPIpSpOsGhpWq/view?usp=sharing)](https://drive.google.com/file/d/16mUQ7Y9spzAeHveDg0wKPIpSpOsGhpWq/view?usp=sharing)**
+- 📄 Know about my experiences **https://drive.google.com/file/d/1vhh5PAvHlJKcMYZbL3ZHqXMf6P2SsQtB/view?usp=sharing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
