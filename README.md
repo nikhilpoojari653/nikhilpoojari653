@@ -4,7 +4,7 @@
 
 - 🌱 I'm currently learning **Machine Learning**
 
-- 🤝 I'm looking for help with **Data analyst jobs in mumbai/navi mumbai**
+- 🤝 I'm looking for help with **Product analyst jobs in mumbai/navi mumbai**
 
 - 📫 How to reach me **nikhilpoojari.da@gmail.com**
 
